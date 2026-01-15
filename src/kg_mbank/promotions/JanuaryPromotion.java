@@ -15,5 +15,9 @@ public class JanuaryPromotion {
         System.out.println("andrei1");
         System.out.println("andrei2");
         System.out.println("andrei3");
+        System.out.println("andrei4");
+        System.out.println("andrei5");
+        System.out.println("andrei6");
+        System.out.println("andrei7");
     }
 }
